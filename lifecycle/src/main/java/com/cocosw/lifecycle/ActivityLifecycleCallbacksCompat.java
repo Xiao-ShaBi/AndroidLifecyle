@@ -29,8 +29,8 @@ import android.os.Bundle;
 
 /**
  * Equivalent of {@link android.app.Application.ActivityLifecycleCallbacks} to be used with
- * {@link LifecycleHelper#registerActivityLifecycleCallbacks(android.app.Application, com.cocosw.lifecycle.ActivityLifecycleCallbacksCompat)} and
- * {@link LifecycleHelper#unregisterActivityLifecycleCallbacks(android.app.Application, com.cocosw.lifecycle.ActivityLifecycleCallbacksCompat)}.
+ * {@link LifecycleDispatcher#registerActivityLifecycleCallbacks(android.app.Application, com.cocosw.lifecycle.ActivityLifecycleCallbacksCompat)} and
+ * {@link LifecycleDispatcher#unregisterActivityLifecycleCallbacks(android.app.Application, com.cocosw.lifecycle.ActivityLifecycleCallbacksCompat)}.
  */
 public interface ActivityLifecycleCallbacksCompat {
     void onActivityCreated(Activity activity, Bundle savedInstanceState);
