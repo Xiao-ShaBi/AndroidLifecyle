@@ -1,6 +1,8 @@
 Android Lifecycle
 =============
 
+[![Build Status](https://travis-ci.org/soarcn/AndroidLifecyle.svg)](https://travis-ci.org/soarcn/AndroidLifecyle)
+
 A 'compatibility' version of the ActivityLifecycleCallbacks APIs (http://developer.android.com/reference/android/app/Application.ActivityLifecycleCallbacks.html)
 that were introduced in Android 4 (API Level 14) and adding similar mechanism for Fragment.
 
