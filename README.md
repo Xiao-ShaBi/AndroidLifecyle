@@ -1,4 +1,4 @@
-Android Lifecycle
+Android Lifecycle [Deprecated]
 =============
 
 [![Build Status](https://travis-ci.org/soarcn/AndroidLifecyle.svg)](https://travis-ci.org/soarcn/AndroidLifecyle)
